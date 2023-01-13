@@ -1,0 +1,15 @@
+.p{
+    display:flex;
+    overflow-x: scroll;
+    /* max-height: 1220px; */
+    /* white-space: nowrap; */
+
+width: 500px;
+}
+.w{
+    min-width: 185px;
+    height: 270px;
+    line-height: 110px;
+    background-color: aqua;
+    /* display: inline-block; */
+}

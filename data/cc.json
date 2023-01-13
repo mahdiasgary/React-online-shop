@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "name": "fr",
+      "phone": "rt",
+      "id": 1
+    },
+    {
+      "name": "drf",
+      "phone": "r",
+      "id": 2
+    },
+    {
+      "name": "ds",
+      "phone": "0912744885",
+      "id": 3
+    }
+  ]
+}
